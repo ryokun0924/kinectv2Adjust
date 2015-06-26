@@ -1,0 +1,10 @@
+<distance_in_mm>
+	<minDistance>780</minDistance>
+	<maxDistance>9360</maxDistance>
+	<detectSize>32000</detectSize>
+	<ofFrameRate>120</ofFrameRate>
+<distance_in_mm/>
+<minDetectSize>280</minDetectSize>
+	<maxDetectSize>300000</maxDetectSize>
+	<maxDetectNumber>121</maxDetectNumber>
+</distance_in_mm>
